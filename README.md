@@ -28,5 +28,5 @@ Desde ese entonces me encuentro en un proceso de continuo aprendizaje autodidact
 
 
 ## 🔗 Links
-[![www.linkedin.com/in/cristianrondan](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristianrondan)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianrondan/)
 
